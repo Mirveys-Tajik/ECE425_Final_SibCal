@@ -87,7 +87,7 @@ Testing confirmed reliable keypad entry, clean decimal handling, correct arithme
 
 ## Block-Diagram
 
-![image]()
+![image](https://github.com/Mirveys-Tajik/ECE425_Final_SibCal/blob/bd7dfd300e4ac11ec4a009d84fc0dc4cfdb04e15/Images/block%20diagram.png)
 
 <a name="Components-list"/>
 
