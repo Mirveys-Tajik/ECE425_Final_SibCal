@@ -75,13 +75,15 @@ The calculator software is designed using a state-machine methodology consisting
 ## Results & Demonstration
 Testing confirmed reliable keypad entry, clean decimal handling, correct arithmetic operation, and stable LCD display updates. The calculator correctly displays ongoing expressions on the top LCD line and results on the bottom line. Edge cases such as divide-by-zero and long expression inputs were handled through error messages or truncation.
 
-### 
-![image]()
+### 3D printed enclosure
+![image](https://github.com/Mirveys-Tajik/ECE425_Final_SibCal/blob/8028c3c3f93362ec2d894413f88bc78eff8251b5/Images/SibCal%20Case.png)
+
+### SibCal executing division 
+![image](https://github.com/Mirveys-Tajik/ECE425_Final_SibCal/blob/8028c3c3f93362ec2d894413f88bc78eff8251b5/Images/SibCal.jpg)
 
 
 ###  video
 - [Demonstration Demo](https://youtube.com/shorts/IIVGqFhmd8g?feature=share)
-
 
 <a name="Block-Diagram"/>
 
